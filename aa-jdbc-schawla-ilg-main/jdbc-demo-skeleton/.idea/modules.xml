@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.pluralcamp.daw.entities/com.pluralcamp.daw.entities.iml" filepath="$PROJECT_DIR$/com.pluralcamp.daw.entities/com.pluralcamp.daw.entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.pluralcamp.daw.persistence/com.pluralcamp.daw.persistence.iml" filepath="$PROJECT_DIR$/com.pluralcamp.daw.persistence/com.pluralcamp.daw.persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.pluralcamp.daw.ui/com.pluralcamp.daw.ui.iml" filepath="$PROJECT_DIR$/com.pluralcamp.daw.ui/com.pluralcamp.daw.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-demo-esquelet.iml" filepath="$PROJECT_DIR$/jdbc-demo-esquelet.iml" />
+    </modules>
+  </component>
+</project>
